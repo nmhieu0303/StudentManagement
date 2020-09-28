@@ -1,0 +1,9 @@
+18600087;Nguyen Minh Hieu;3/3/2000 12:00:00 AM;Long An;Male
+18600086;Nguyen Minh C;3/11/2000 12:00:00 AM;Long An;Female
+18600085;Nguyen Minh D;10/28/2000 12:00:00 AM;Long An;Male
+18600086;Nguyen Minh A;3/13/2000 12:00:00 AM;Long An;Female
+12255;hieu;9/3/2020 9:40:09 PM;Khánh Hòa;Female
+549898;sdasdas;9/27/2020 9:42:10 PM;Hải Dương;Female
+656565;asdsasadssa;9/27/2020 9:55:38 PM;Quảng Ngãi;Male
+12255;hieu;9/3/2020 9:40:09 PM;Khánh Hòa;Female
+12255;hieu;9/3/2020 9:40:09 PM;Khánh Hòa;Male
